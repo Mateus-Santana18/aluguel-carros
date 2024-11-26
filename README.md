@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de README para o seu projeto de aluguel de carros utilizando ReactJS, Node.js e PostgreSQL. Você pode personalizá-lo conforme as especificidades do seu projeto:
-
----
-
 # Projeto de Aluguel de Carros
 
 Este é um projeto para um sistema de **aluguel de carros** que permite aos usuários visualizar veículos disponíveis, fazer reservas e gerenciar seu aluguel. A aplicação foi construída utilizando **ReactJS**, **Node.js** e **PostgreSQL**.
